@@ -1,17 +1,21 @@
 <h1 align="center">Hi, I'm MustafaShirzad</h1>
-<h3 align="center">A passionate front end developer from Afghanistan</h3>
+<h3 align="center">A passionate front-end developer from Afghanistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafasamishirzad&label=Profile%20views&color=0e75b6&style=flat" alt="mustafasamishirzad" /> </p>
 
-- 🔭 I’m currently working on [To-Do-List](https://github.com/MustafaSamiShirzad/to-do-list)
+- 🔭 I’m currently working on [To-Do-List](https://github.com/MustafaSamiShirzad/to-do-list) - A project to help users organize their tasks efficiently.
 
-- 🌱 I’m currently learning **Javascript**
+  **Tech Stack:** HTML, CSS, JavaScript, Sass, Bootstrap
+
+- 🌱 I’m currently learning **JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MustafaSamiShirzad?tab=repositories](https://github.com/MustafaSamiShirzad?tab=repositories)
 
-- 💬 Ask me about **Html, css**
+- 💬 Ask me about **HTML, CSS**
 
 - 📫 How to reach me **mustafasami209@gmail.com**
+
+- 🌟 Available for hire or open to new opportunities!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
