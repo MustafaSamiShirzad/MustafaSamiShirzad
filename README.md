@@ -1,7 +1,15 @@
 <h1 align="center">Hi, I'm MustafaShirzad</h1>
-<h3 align="center">Software dev. C++, HTML/CSS/JS. Love learning & coding. 🚀</h3>
+<h3 align="center">A passionate front end developer from Afghanistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafasamishirzad&label=Profile%20views&color=0e75b6&style=flat" alt="mustafasamishirzad" /> </p>
+
+- 🔭 I’m currently working on [To-Do-List](https://github.com/MustafaSamiShirzad/to-do-list)
+
+- 🌱 I’m currently learning **Javascript**
+
+- 👨‍💻 All of my projects are available at [https://github.com/MustafaSamiShirzad?tab=repositories](https://github.com/MustafaSamiShirzad?tab=repositories)
+
+- 💬 Ask me about **Html, css**
 
 - 📫 How to reach me **mustafasami209@gmail.com**
 
